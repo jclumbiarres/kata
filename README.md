@@ -6,3 +6,7 @@ El password pot contenir: minúscules, majúscules, números i aquests símbols:
 Hay que subirlo a GitHub y pasar el enlace al mentor por Discord.
 
 Buena suerte!
+
+---
+
+Ganador Ami! Felicidades!
